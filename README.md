@@ -20,10 +20,6 @@ The documentation is primarily provided in Hungarian. If you need translations o
 
 These documents provide comprehensive information about the architecture, setup, development workflows, and requirements for the project. Refer to the specific guides when working on front-end or back-end components.
 
-## Contributing to Documentation
-
-If you'd like to contribute to or update this documentation, please follow the project's contribution guidelines and submit your changes through the established workflow.
-
 ---
 
 *Last updated: April 2025*
