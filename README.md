@@ -1,28 +1,29 @@
-# Repository Documentation
+# SBT Documentation
 
-## Overview
-This repository contains documents and presentations related to "Vizsgamunka" (Exam Work).
+This directory contains documentation for the Software-Based Testing (SBT) project. Here you'll find guides, project descriptions, and presentation materials.
 
 ## Contents
-- **Vizsgamunka Prezentacio**: PowerPoint presentation files
-- **Vizsgamunka Leiras**: Word documentation files
 
-## How to Use This Repository
+### Guides
+- **Backend Útmutató.docx** - Backend development guide (in Hungarian)
+- **Frontend Útmutató.docx** - Frontend development guide (in Hungarian)
 
-### Accessing Files
-1. Clone the repository to your local machine:
-   ```
-   git clone [repository URL]
-   ```
-2. Navigate to the repository directory:
-   ```
-   cd [repository name]
-   ```
+### Project Documentation
+- **Vizsgamunka Leírás.docx** - Project/Examination work description (in Hungarian)
+- **Vizsgamunka Prezentacio.pptx** - Project presentation slides (in Hungarian)
 
-### Working with Presentations
-- The PowerPoint presentation "Vizsgamunka Prezentacio" can be opened with Microsoft PowerPoint or compatible software.
-- Make sure to use the latest version of the presentation for any demonstrations or meetings.
+## Language Note
 
-### Working with Documentation
-- The Word document "Vizsgamunka Leiras" contains detailed descriptions and explanations.
-- It can be opened with Microsoft Word or compatible word processing software.
+The documentation is primarily provided in Hungarian. If you need translations or have questions about the content, please contact the project maintainers.
+
+## Using This Documentation
+
+These documents provide comprehensive information about the architecture, setup, development workflows, and requirements for the project. Refer to the specific guides when working on front-end or back-end components.
+
+## Contributing to Documentation
+
+If you'd like to contribute to or update this documentation, please follow the project's contribution guidelines and submit your changes through the established workflow.
+
+---
+
+*Last updated: April 2025*
